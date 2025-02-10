@@ -48,9 +48,13 @@ Interagir avec l'application :
 Ouvrez votre navigateur à l'adresse indiquée (généralement http://localhost:8501).
 Téléchargez un fichier PDF.
 Cliquez sur "Générer le résumé" pour obtenir le résumé du document.
+
 📋 Fichiers du projet
 main.py : Script principal contenant l'interface Streamlit.
+
 extract_from_pdf.py : Module pour l'extraction du texte des PDF.
+
 summarize_from_pdf.py : Module pour la génération du résumé en utilisant l'API OpenAI.
+
 requirements.txt : Liste des dépendances Python nécessaires.
-.env : Fichier contenant la clé API OpenAI (à créer par l'utilisateur).
+.env : Fichier contenant la clé API OpenAi
